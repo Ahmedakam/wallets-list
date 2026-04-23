@@ -26,11 +26,11 @@
   },
   {
     "app_name": "tonkeeper",
-    "name": "Tonkeeper",
+    "name": "Tonkeeper",UQARIQeRt55gDYdCp96da0wV9_sFnpg1m2rEHLXw9HTdu9LC
     "image": "https://tonkeeper.com/assets/tonconnect-icon.png",
     "tondns": "tonkeeper.ton",
     "about_url": "https://tonkeeper.com",
-    "universal_url": "https://app.tonkeeper.com/ton-connect",
+    "universal_url": UQARIQeRt55gDYdCp96da0wV9_sFnpg1m2rEHLXw9HTdu9LC
     "deepLink": "tonkeeper-tc://",
     "bridge": [
       {
